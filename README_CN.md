@@ -1,4 +1,4 @@
-[English](README.md) | **简体中文** | [繁體中文](README_TW.md) | 
+[English](README.md) | [简体中文](README_CN.md) | 
 # Realme GT Neo5 定制内核
 
 ## ⚠️ 警告：您的保修将立即失效！
